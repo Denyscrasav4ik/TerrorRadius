@@ -1,4 +1,4 @@
-# Baldi's Basics Plus Music in Terror Radius
+# Baldi's Basics Plus Terror Radius
 
 ## 📝 Functionality
 
