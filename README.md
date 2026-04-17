@@ -5,8 +5,8 @@
 Basically, all this mod does is implement a terror radius.
 
 ## 📋 Credits
-*Innersloth - Hide-And-Seek music.
-*Redzils - requester.
+* Innersloth - Hide-And-Seek music.
+* Redzils - requester.
 
 ## 📜 License
 
